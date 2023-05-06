@@ -5,8 +5,7 @@
 			<offset>
 				<position x="-150000" y="0" z="-126000" />
 			</offset>
-			<macro ref="zone_st3k_Cluster_48_Sector001_macro"
-				connection="sector" />
+			<macro ref="zone_st3k_Cluster_48_Sector001_macro" connection="sector" />
 		</connection>
 	</add>
 </diff>
