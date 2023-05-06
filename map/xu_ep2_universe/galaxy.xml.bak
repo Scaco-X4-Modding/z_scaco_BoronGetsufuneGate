@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<diff>
-  <add sel="/macros/macro[@name='St3k_universe_macro']/connections">
-    <connection name="ClusterGate050To608" ref="destination" path="../Cluster_50_connection/Cluster_50_Sector001_connection/Zones_Cluster_50_Sector001_connection/connection_ClusterGate058To608">
-      <macro connection="destination" path="../../../../../Cluster_608_connection/Cluster_608_Sector001_connection/Zones_Cluster_608_Sector001_connection/connection_ClusterGate041To058"/>
-    </connection>
-  </add>
-</diff>

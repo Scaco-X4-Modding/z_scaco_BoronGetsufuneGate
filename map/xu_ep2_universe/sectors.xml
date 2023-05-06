@@ -3,9 +3,9 @@
 	<add sel="//macro[@name='St3k_Cluster_48_Sector001_macro']/connections">
 		<connection name="Cluster_48_Sector001_connection" ref="zones">
 			<offset>
-				<position x="-150000" y="0" z="-126000"/>
+				<position x="-150000" y="0" z="-126000" />
 			</offset>
-			<macro ref="Cluster_48_Sector001_macro" connection="sector"/>
+			<macro ref="Cluster_48_Sector001_macro" connection="sector" />
 		</connection>
 	</add>
 </diff>

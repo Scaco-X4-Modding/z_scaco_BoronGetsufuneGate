@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="z_scaco_BoronGetsufuneGate" name="z_scaco_BoronGetsufuneGate" description="Adds Connection between Boronsector and Getsu Fune. Only edited St3k Mod."
+<content id="z_scaco_BoronGetsufuneGate" name="z_scaco_BoronGetsufuneGate"
+	description="Adds Connection between Boronsector and Getsu Fune. Only edited St3k Mod."
 	author="Scaco" version="001" date="2023-05-04" save="0" enabled="1">
 	<dependency id="ego_dlc_split" optional="true" name="Split Vendetta" />
 	<dependency id="ego_dlc_terran" optional="true" name="Cradle of Humanity" />

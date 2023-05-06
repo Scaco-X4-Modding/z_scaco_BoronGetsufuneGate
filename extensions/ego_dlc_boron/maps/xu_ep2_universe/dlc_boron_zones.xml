@@ -2,14 +2,14 @@
 <diff>
 	<add sel="//macros">
 		<macro name="zones_st3k_Cluster_608_Sector001_macro" class="zone">
-			<component ref="standardzone"/>
+			<component ref="standardzone" />
 			<connections>
 				<connection name="connection_ClusterGate608To48" ref="gates">
 					<offset>
-						<position x="500" y="250" z="500"/>
-						<quaternion qx="0" qy="-0.9238795" qz="0" qw="0.3826834"/>
+						<position x="500" y="250" z="500" />
+						<quaternion qx="0" qy="-0.9238795" qz="0" qw="0.3826834" />
 					</offset>
-					<macro ref="props_gates_anc_gate_macro" connection="space"/>
+					<macro ref="props_gates_anc_gate_macro" connection="space" />
 				</connection>
 			</connections>
 		</macro>
